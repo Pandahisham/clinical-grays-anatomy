@@ -13,7 +13,7 @@ meteor add clinical:grays-anatomy
 
 
 ------------------------
-### Default User Record Schema  
+### Record Schema  
 
 The user objects are have a fairly simple document schema that looks like the following:
 ````js
